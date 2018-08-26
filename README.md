@@ -21,3 +21,6 @@ RECEIPIENT_EMAIL="email address that will get the email of the new subscription"
 - Visit http://localhost:5000/ in your browser to see the app.
 
 Remember to allow access to `less secure apps` on the Gmail account that will be sending the emails. Follow this [link](https://myaccount.google.com/u/2/lesssecureapps?rfn=27&rfnc=1&eid=8574598908892126865&et=0&asae=2&pli=1) to do so.
+
+# License
+This project is licensed under the terms of the MIT License.
